@@ -33,11 +33,7 @@ cd Listagem-de-Restaurantes/listagem-restaurante
 # rode o programa
 python [nome-do-arquivo].py
 ```
-
 > Precisa ter o Python 3 instalado na máquina.
-
-## 📂 Estrutura
-
 
 ## 📚 O que aprendi
 
